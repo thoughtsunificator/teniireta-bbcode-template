@@ -9,9 +9,4 @@ describe("template", () => {
 		assert.ok(Template.prototype instanceof BBCodeTemplate)
 	})
 
-
-	it("onCreated", () => {
-
-	})
-
 })
