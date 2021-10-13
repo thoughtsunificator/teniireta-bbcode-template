@@ -1,6 +1,6 @@
-import { BBcodeTemplate } from "@thoughtsunificator/bbcode-parser-template"
+import { BBCodeTemplate } from "@thoughtsunificator/bbcode-parser-template"
 
-class Template extends BBcodeTemplate {
+class Template extends BBCodeTemplate {
 
 	/**
 	 * @abstract
