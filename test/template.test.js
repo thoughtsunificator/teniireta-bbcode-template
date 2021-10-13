@@ -1,7 +1,7 @@
 import assert from "assert"
 
 import { Template } from "../index.js"
-import { BBCodeTemplate } from "@thoughtsunificator/bbcode-parser-template"
+import { Template as BBCodeTemplate } from "@thoughtsunificator/bbcode-parser-template"
 
 describe("template", () => {
 
