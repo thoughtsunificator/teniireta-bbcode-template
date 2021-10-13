@@ -24,7 +24,7 @@
 	},
 	"author": "Romain Lebesle <oss@thoughtsunificator.me> (https://thoughtsunificator.me)",
 	"license": "MIT",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"dependencies": {
 		"@thoughtsunificator/bbcode-parser-template": "^1.0.8"
 	}
